@@ -75,6 +75,6 @@ After logging in, the main menu offers four key options:
 
 - Secure session management and dynamic product listings are key technical considerations.
 - The shopping cart's persistence is crucial for a seamless shopping experience.
-- Payment processing can be simulated or integrated with a payment gateway for real transactions.
-- Security measures should be in place for user authentication and session termination.
+- Payment processing is simulated in the application with a weighted random payment status
+   - This allows for all outcomes to be possible and simulate real world transactions
 
