@@ -1,0 +1,60 @@
+Appliance,Refrigerator,1200.00
+Appliance,Dishwasher,800.00
+Appliance,Microwave Oven,150.00
+Appliance,Coffee Maker,85.00
+Appliance,Blender,45.00
+Appliance,Toaster,25.00
+Appliance,Electric Kettle,30.00
+Appliance,Slow Cooker,60.00
+Appliance,Air Fryer,100.00
+Appliance,Rice Cooker,20.00
+Appliance,Stand Mixer,200.00
+Appliance,Hand Mixer,50.00
+Appliance,Juicer,55.00
+Appliance,Food Processor,130.00
+Appliance,Pressure Cooker,90.00
+Appliance,Espresso Machine,300.00
+Appliance,Range Hood,250.00
+Appliance,Induction Cooktop,400.00
+Appliance,Deep Fryer,70.00
+Appliance,Bread Maker,110.00
+Building Materials,2x4 Lumber 8ft,3.50
+Building Materials,Plywood Sheet 4x8,22.00
+Building Materials,Nails 1lb,5.00
+Building Materials,Concrete Mix 60lb,6.50
+Building Materials,Insulation Roll,25.00
+Building Materials,Paint Gallon,30.00
+Building Materials,Ceramic Tile sqft,1.50
+Building Materials,Drywall Sheet,10.00
+Building Materials,Flooring Laminate sqft,2.00
+Building Materials,Roof Shingle,2.25
+Building Materials,Brick Each,0.50
+Building Materials,Window Double Pane,150.00
+Building Materials,Door Interior,75.00
+Building Materials,Sand 50lb,4.00
+Building Materials,Gravel 50lb,3.75
+Building Materials,Decking Board,5.00
+Building Materials,Cement Bag,8.50
+Building Materials,Bathroom Faucet,45.00
+Building Materials,Kitchen Sink,120.00
+Building Materials,Cabinet Knob,2.00
+Tools,Hammer,15.00
+Tools,Screwdriver Set,20.00
+Tools,Hand Saw,25.00
+Tools,Drill,80.00
+Tools,Measuring Tape,10.00
+Tools,Ladder 8ft,75.00
+Tools,Utility Knife,7.00
+Tools,Pliers,12.00
+Tools,Level,15.00
+Tools,Wrench Set,30.00
+Tools,Toolbox,50.00
+Tools,Work Gloves,5.00
+Tools,Safety Goggles,8.00
+Tools,Ear Protection,10.00
+Tools,Dust Mask,1.00
+Tools,Sanding Block,4.00
+Tools,Chisel Set,25.00
+Tools,Wire Stripper,16.00
+Tools,Stud Finder,20.00
+Tools,Clamp,9.00
